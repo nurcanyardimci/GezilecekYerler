@@ -1,0 +1,13 @@
+Projem Türkiye'deki şehirlerde gezilecek yerleri, o şehire ait ürünleri, gidilebilecek restorant ve otellerin konumunu gösteren bir tasarımdan oluşuyor.
+Ana sayfada genel bir giriş, şehirler adı sayfasında şehir seçtikten sonra o şehire ait bilgiler bulunmaktadır. 
+Örnek olması açısından 81 il içerisinden 3 tanesi üzerinden çalıştım.Ankara, Adana ve Elazığ. 
+Genel olarak html,css, bootstrap,kullanarak sayfa tasarımını yaptım. java,Spring boot ile backend servis kısmını yazdım, postgresql ile de veritabanına ait bilgilerde çalıştım.
+
+Java kodlarının bulunduğu klasör;
+\gezilecek_yerler\gezilecek_yerler\src\main\java\com\gezilecek_yerler\gezilecek_yerler
+
+Veritabanıbilgilerinin bulunduğu klasör: pgadmin
+
+Html kodları ve sayfa tasarımının oldugu klasör:templatemo_409_travel
+
+ 
